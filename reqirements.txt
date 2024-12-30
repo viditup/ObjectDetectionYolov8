@@ -16,3 +16,7 @@ tqdm>=4.64.0
 filterpy==1.4.5
 scikit-image==0.19.3
 lap==0.4.0
+For GPU Download = login NVIDIA = https://nvda.ws/3HnZEPM  
+Download CUDA 1.5v = https://developer.nvidia.com/cuda-11-5-0-download-archive
+Download Cdnn 1.5v = https://developer.nvidia.com/rdp/cudnn-archive
+copy pytorch link to run cmd = pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
